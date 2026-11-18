@@ -1,5 +1,5 @@
 import { registerRootComponent } from 'expo';
 
-import { Home } from '@/app/Home';
+import { Home } from '@/screens/Home';
 
 registerRootComponent(Home);
